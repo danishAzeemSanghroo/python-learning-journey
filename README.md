@@ -30,3 +30,14 @@ Day2: Tasks
     23# Find the index of the last occurrence of a substring (.rfind()).
     24# Swap the case of all characters (uppercase → lowercase, lowercase → uppercase).
 
+Day3: Tasks
+    1# take the number from user and print even or odd
+    2# enter dish and check if it contains in list
+    3# Take a number as input and check if it is positive or negative.
+    4# Take two numbers and print the larger one.
+    5# Check if a number is divisible by 5.
+    6# Take a string and check if it contains the word "Python".
+    7# Check if a year is a leap year (hint: divisible by 4 but not 100, unless also divisible by 400).
+    8# Take three numbers and print the largest one.
+
+
