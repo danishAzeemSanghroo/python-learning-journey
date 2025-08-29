@@ -40,4 +40,20 @@ Day3: Tasks
     7# Check if a year is a leap year (hint: divisible by 4 but not 100, unless also divisible by 400).
     8# Take three numbers and print the largest one.
 
+Day4: Tasks
+    1# track monthly expenses
+    2# print num 1 to 10
+    3# multiple of numbers
+    4# calculate monthly expense
+    5# find location of given text
+    6# Print each character of a string using a for loop.
+    7# Print only even numbers between 1 and 20.
+    8# Print the multiplication table of a number (e.g., table of 5).
+    9# Count how many vowels are in a string.
+    10# Find the largest number in a list using a loop.
+    11# Reverse a string using a loop.
+
+    
+    
+
 
