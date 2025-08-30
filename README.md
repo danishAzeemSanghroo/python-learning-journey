@@ -53,6 +53,25 @@ Day4: Tasks
     10# Find the largest number in a list using a loop.
     11# Reverse a string using a loop.
 
+Day5: Tasks
+1# Make list
+2# Create a list with 5 numbers and print the list.
+3# Access and print the first and last elements of a list.
+4# Slice a list to get the first 3 elements.
+5# Slice a list to get the last 2 elements.
+6# Concatenate two lists.
+7# Repeat a list 3 times using *.
+8# Find the length of a list using len().
+9# Add a new element at the end of a list using .append().
+10# Insert an element at the second position using .insert().
+11# Remove a specific element from a list using .remove().
+12# Remove the last element using .pop().
+13# Find the index of a specific element using .index().
+14# Count how many times a value appears using .count().
+15# Sort a list in ascending order using .sort().
+16# Reverse a list using .reverse().
+
+
     
     
 
