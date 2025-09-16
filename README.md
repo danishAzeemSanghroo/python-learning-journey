@@ -72,22 +72,37 @@ Day5: Tasks
     16# Reverse a list using .reverse().
 
 Day6: Tasks
-1# make a dictionary
-2# print a dictionary by for loop
-3# print key values
-4# print by index
-5# delete dictionary value
-6# check value in dictionary [true or false]
-7# Create a dictionary with at least 3 key–value pairs and print it.
-8# Access the value of a specific key.
-9# Change the value of an existing key.
-10# Add a new key–value pair to the dictionary.
-11# Remove a key–value pair using .pop().
-12# Get the list of all keys in the dictionary.
-13# Get the list of all values in the dictionary.
-14# Get the list of all key–value pairs using .items().
-15# Check if a key exists in a dictionary.
-16# Create a dictionary of 5 students and their marks, then print the student with the highest marks.
+    1# make a dictionary
+    2# print a dictionary by for loop
+    3# print key values
+    4# print by index
+    5# delete dictionary value
+    6# check value in dictionary [true or false]
+    7# Create a dictionary with at least 3 key–value pairs and print it.
+    8# Access the value of a specific key.
+    9# Change the value of an existing key.
+    10# Add a new key–value pair to the dictionary.
+    11# Remove a key–value pair using .pop().
+    12# Get the list of all keys in the dictionary.
+    13# Get the list of all values in the dictionary.
+    14# Get the list of all key–value pairs using .items().
+    15# Check if a key exists in a dictionary.
+    16# Create a dictionary of 5 students and their marks, then print the student with the highest marks.
+
+Day9: Tasks 
+    1# Create numpy array
+    2# attributes in numpy
+    3# math operations
+    4# sorting lists
+    5# statistics functions
+
+
+
+
+
+
+
+    
 
 
 
